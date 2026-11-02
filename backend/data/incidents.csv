@@ -1,0 +1,11 @@
+id,date,site_id,location,issue,downtime_hours,team,status,description
+INC001,2026-10-28,CTG001,Agrabad,Fiber Cut,3.0,Team A,Resolved,UG fiber damaged during road work
+INC002,2026-10-28,CTG002,Hathazari,Power Failure,2.0,Team B,Resolved,Commercial power interruption
+INC003,2026-10-29,CTG003,EPZ,Fiber Cut,5.0,Team A,Resolved,Excavator damaged fiber cable
+INC004,2026-10-29,CTG004,Bohaddarhat,Equipment Fault,4.0,Team C,Resolved,Access switch hardware issue
+INC005,2026-10-30,CTG005,Sitakunda,Power Failure,1.0,Team B,Resolved,Generator fuel issue
+INC006,2026-10-30,CTG006,Potenga,Fiber Cut,6.0,Team A,Resolved,Third-party construction damage
+INC007,2026-10-31,CTG007,Jubilee Road,Equipment Fault,2.0,Team C,Resolved,Optical module replacement
+INC008,2026-10-31,CTG008,Tigerpass,Fiber Cut,3.0,Team B,Resolved,Manhole cable damage
+INC010,2026-11-01,CTG010,Nasirabad,Equipment Fault,2.0,Team C,Resolved,Device reboot and configuration check
+INC011,string,string,,string,0.0,string,Resolved,
